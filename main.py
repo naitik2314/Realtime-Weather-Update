@@ -16,7 +16,7 @@ def weather(city):
     print(info)
     print(weather+"°C") 
 
-print("enter the city name")
+print("Enter the city name")
 city=input()
-city=city+" weather"
+city=city+" Weather"
 weather(city)
